@@ -32,3 +32,6 @@ To run the system locally, follow these steps:
 2. **Clone the repository**:
    ```bash
    git clone https://github.com/tajarrosrj/PLP-Alumni-System.git
+
+## Live Demo
+Check out the live demo of the website: [Live Demo](https://plp-alumni.infinityfreeapp.com/)
